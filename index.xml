@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jtu Landing Page</title>
+    <link>https://jtu.my.id/</link>
+    <description>Recent content on Jtu Landing Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jtu.my.id/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://jtu.my.id/posts/hello-world/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jtu.my.id/posts/hello-world/</guid>
+      <description>HELLO WORLD !!!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://jtu.my.id/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jtu.my.id/about/</guid>
+      <description>Hi &amp;hellip;
+My name is John Im student and Im like Server and Programming *A little bit
+This page is made to always keep domain in use and make things faster because i will hosting my side project in old phone&amp;hellip;
+yeah it is old phone so the performance is not that great but maybe i will make a better website in this
+and my server specs : Not recomended btw Asus zenfone 2 laser 2/16</description>
+    </item>
+    
+  </channel>
+</rss>
